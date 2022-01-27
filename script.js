@@ -44,6 +44,8 @@ function createList() {
   addEventListeners();
 }
 
+draggable_list.draggable(); // to test jquery touch event on mobile
+
 // To add event listeners on every action on the list item
 
 function addEventListeners() {
