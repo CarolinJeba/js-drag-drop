@@ -6,8 +6,9 @@ Javascript Project on Drag &amp; Drop Sortable list
  * Allow user to drag and drop an item to a different position
  * Button to check if items are in correct order
  * Show green for correct order and red for wrong order
+     * Udemy Tutorial by Brad Traversy
+
 
 
 Deployed using Netlify: https://reverent-bardeen-0435c2.netlify.app/
 
-Based on tutorial by Brad Traversy
